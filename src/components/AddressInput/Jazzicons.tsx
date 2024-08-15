@@ -1,6 +1,6 @@
 import { type FC } from "react";
 
-import { Skeleton } from "@chakra-ui/react";
+import { Skeleton } from "@mui/material";
 import Jazzicon, { jsNumberForAddress } from "react-jazzicon";
 
 type JazziconsProps = {
