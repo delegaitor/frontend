@@ -28,6 +28,7 @@
     "react-hook-form": "^7.52.1",
     "react-jazzicon": "1.0.4",
     "sharp": "0.33.3",
+    "typescript-eslint": "^8.1.0",
     "viem": "2.9.27",
     "wagmi": "2.5.22"
   },
