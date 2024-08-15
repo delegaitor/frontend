@@ -1,5 +1,6 @@
 "use client";
 import React from "react";
+
 import { AppBar, Box, Toolbar, Typography, useTheme, useMediaQuery } from "@mui/material";
 import { ConnectButton } from "@rainbow-me/rainbowkit";
 import Image from "next/image";

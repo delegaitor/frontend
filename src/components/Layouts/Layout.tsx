@@ -1,6 +1,8 @@
 "use client"
 import React from 'react';
+
 import { useMediaQuery, useTheme } from "@mui/material";
+
 import { MobileLayout, WebLayout } from "@/components";
 
 interface LayoutProps {

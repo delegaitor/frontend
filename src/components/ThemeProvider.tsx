@@ -1,7 +1,9 @@
 'use client';
-import { AppRouterCacheProvider } from '@mui/material-nextjs/v13-appRouter';
 import React, { useEffect, useMemo, useState } from 'react';
+
 import { ThemeProvider as MuiThemeProvider } from '@mui/material';
+import { AppRouterCacheProvider } from '@mui/material-nextjs/v13-appRouter';
+
 import { lightTheme, darkTheme } from '../styles/theme';
 
 interface ThemeContextType {

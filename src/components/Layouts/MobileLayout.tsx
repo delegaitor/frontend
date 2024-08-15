@@ -1,7 +1,9 @@
 "use client";
 
 import React from "react";
+
 import { Box } from "@mui/material";
+
 import { Header, Footer } from "@/components";
 
 interface MobileLayoutProps {
